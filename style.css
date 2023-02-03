@@ -1,0 +1,23 @@
+#gameContainer{
+    text-align: center;
+}
+
+#gameBoard{
+    border: 3px dashed;
+}
+
+#scoreText{
+    font-family: monospace;
+    font-size: 100px;
+    color: royalblue
+}
+
+#resetButton{
+    font-family: fantasy;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px dashed; color: red;
+    border-radius: 15px;
+    cursor: pointer;
+}
